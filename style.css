@@ -16,7 +16,7 @@
   #projects {
     background: linear-gradient(90deg, white, white, aqua);
     width: 100%;
-    height: 600px;
+    height: 100vh;
   }
   #project-title {
     margin-top: 10px;
@@ -69,4 +69,10 @@
   }
   #google-img {
     width: 200px;
+  }
+  #react-img {
+    width: 200px;
+  }
+  #img-manage {
+    padding-top: 300px;
   }
