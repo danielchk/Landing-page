@@ -74,7 +74,7 @@
     width: 200px;
   }
   #img-manage {
-    padding-top: 200px;
+    padding-top: 30px;
   }
   #teamclass-logo {
     width: 100px;
@@ -95,5 +95,6 @@
   }
   #github-img {
     width: 200px;
-    margin-left: 1000px;
+    margin-left: 800px;
+    padding-top: 100px;
   }
