@@ -33,11 +33,11 @@
     height: 130px;
   }
   #style-list {
-    text-decoration: none;
     font-size: 20px;
     margin-left: 200px;
   }
   #style-list li {
+    text-decoration: none;
     display:inline;
     padding-right:3px;
   }
@@ -69,7 +69,7 @@
     width: 200px;
   }
   #img-manage {
-    padding-top: 0px;
+    padding-top: -50px;
   }
   #teamclass-logo {
     width: 200px;
@@ -77,7 +77,6 @@
     margin-left: 20px;
   }
   #lunario-title {
-    margin-top: 0px;
     margin-top: -100px;
     font-size: 30px;
     margin-left: 20px;
@@ -173,22 +172,26 @@
     margin-left: 50px;
   }
   #presentation-link {
-    margin-left: 100px;
-    padding-top: -20px;
+    margin-left: 200px;
+    padding-top: -100px;
     color: white;
   }
   #feature-link {
     margin-left: 50px;
-    padding-top: -20px;
+    padding-top: -100px;
 
   }
   #titles {
     margin-top: -50px;
-    margin-bottom: 0px;
+    margin-bottom: -15px;
     margin-left: 20px;
   }
   #titles2 {
     margin-top: -50px;
-    margin-bottom: 0px;
+    margin-bottom: -15px;
     margin-left: 520px;
+  }
+  #holberton {
+    margin-top: -300px;
+    margin-left: 1500px;
   }
