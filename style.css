@@ -182,16 +182,21 @@
 
   }
   #titles {
-    margin-top: -50px;
+    margin-top: -70px;
     margin-bottom: -15px;
     margin-left: 20px;
   }
   #titles2 {
-    margin-top: -50px;
+    margin-top: -70px;
     margin-bottom: -15px;
     margin-left: 520px;
   }
   #holberton {
     margin-top: -300px;
     margin-left: 1500px;
+  }
+  #colaborators-list {
+    font-size: 20px;
+    text-decoration: none;
+    list-style: none;
   }
